@@ -16,12 +16,7 @@ A simple web application that allows users to convert currencies in real-time us
 -JavaScript - Fetching exchange rates and handling user interactions.<br>
 -Exchange Rate API - Retrieves live currency exchange rates.<br>
 
-# Live demo and Screen shots :
+# Screen shots :
 
-Live demo :
-
-https://akankshap-currency-converter.netlify.app
-
-Screen Shot:
 ![alt text](<demo.png>)
 
